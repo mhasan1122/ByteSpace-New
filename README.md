@@ -4,7 +4,7 @@ ByteSpace is a learning-platform interface built from the design: a marketing la
 
 ## Live
 
-https://bytespace-kza19m5rq-mhasan1122s-projects.vercel.app/
+https://temporary-speedy-breeze-d7eil5a.vercel.app/
 
 ## Pages
 
